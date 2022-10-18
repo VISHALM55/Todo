@@ -1,0 +1,35 @@
+#description{
+    height: 80px;
+    margin: 0%;
+    padding: 0%;
+    width: 327px;
+    height: 100px;
+}
+
+#container{
+    border: 1px solid black;
+    height: auto;
+    width: fit-content;
+    padding: 5%;
+}
+#newtask label{
+    margin-bottom: 20px;
+}
+#add{
+    margin-top: 5px;
+}
+
+#result{
+    border: 2px solid black;
+    padding: 5px;
+    margin: 10px;
+}
+#description{
+    width: 327px;
+    height: 100px;
+    
+}
+
+body{
+    margin-left: 120px;
+}
